@@ -103,6 +103,16 @@ Usage:
 
     Update dataset_dir and updated_dataset_dir to specify the input and output directories.
     Ensure the rembg library is installed.
+
+## Usage
+
+1. Place your input images in the respective `dataset_dir` for each script.
+
+2. Run the script:
+   ```bash
+   python <script_name>.py
+
+
 ## Acknowledgments
 
 - [Holistically-Nested Edge Detection (HED)](https://github.com/s9xie/hed)
